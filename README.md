@@ -1,5 +1,5 @@
 # Custom Event Calendar
-[LIVE DEMO](https://dynamic-event-calendar-beta.vercel.app/)
+[LIVE DEMO](https://custom-event-calendar-flame.vercel.app/)
 
 A modern and feature-rich calendar application that enables efficient event management and scheduling. Built with React and styled using **shadcn**, the app provides a clean and interactive user experience.
 
@@ -30,6 +30,5 @@ A modern and feature-rich calendar application that enables efficient event mana
    ```
 5. Open your browser and navigate to `http://localhost:3000` to view the app.
 
-## Deployed Application
-Access the live version of the app here: [Deployed Link](https://dynamic-event-calendar-beta.vercel.app/) 
+
 
