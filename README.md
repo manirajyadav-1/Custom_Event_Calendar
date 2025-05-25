@@ -31,4 +31,14 @@ A modern and feature-rich calendar application that enables efficient event mana
 5. Open your browser and navigate to `http://localhost:3000` to view the app.
 
 
+## Output Screenshot
+
+https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image1.png
+
+https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image2.png
+
+https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image3.png
+
+https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image4.png
+
 
