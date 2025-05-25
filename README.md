@@ -1,7 +1,7 @@
 # Custom Event Calendar
 [LIVE DEMO](https://custom-event-calendar-flame.vercel.app/)
 
-A modern and feature-rich calendar application that enables efficient event management and scheduling. Built with React and styled using **shadcn**, the app provides a clean and interactive user experience.
+A modern and feature-rich calendar application that enables efficient event management and scheduling. Built with React and styled using **shadcn** and **TailwinCSS**, the app provides a clean and interactive user experience.
 
 
 ## Tech Stack
