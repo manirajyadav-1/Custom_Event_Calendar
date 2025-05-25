@@ -14,7 +14,7 @@ A modern and feature-rich calendar application that enables efficient event mana
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anushkaps/dynamic-event-calendar.git
+   git clone https://github.com/manirajyadav-1/Custom_Event_Calendar.git
    ```
 2. Navigate to the project directory:
    ```bash
