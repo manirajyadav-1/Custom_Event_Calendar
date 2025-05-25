@@ -33,12 +33,16 @@ A modern and feature-rich calendar application that enables efficient event mana
 
 ## Output Screenshot
 
-https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image1.png
+### Main Page
+![App Screenshot](https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image1.png)
 
-https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image2.png
+### Event Added
+![App Screenshot](https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image2.png)
 
-https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image3.png
+### Event Update
+![App Screenshot](https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image3.png)
 
-https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image4.png
+### Search Event
+![App Screenshot](https://github.com/manirajyadav-1/Custom_Event_Calendar/blob/main/src/output/image4.png)
 
 
